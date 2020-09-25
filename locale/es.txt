@@ -1,0 +1,61 @@
+#: locale=es
+
+## Tour
+
+### Description
+tour.description = Les presentamos un amplio inmueble de excelente ubicación.
+
+### Title
+tour.name = Hermoso Terreno en Luque
+
+## Skin
+
+### Button
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = HOUSE INFO
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = INFO
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = PANORAMA LIST
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PANORAMAS
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = REALTOR
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = REALTOR
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = FLOORPLAN
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = FLOORPLAN
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = PHOTOALBUM
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = PHOTOS
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = LOCATION
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = LOCATION
+
+### Multiline Text
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+
+### Label
+Label_0DD14F09_1744_0507_41AA_D8475423214A.text = LOREM IPSUM
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2.text = dolor sit amet, consectetur 
+
+## Media
+
+### Title
+panorama_D5690366_C1A8_2D11_41D1_80AD504B249B.label = Terreno 11
+panorama_D5722D4E_C1A8_352E_41E7_DCA822AD1779.label = Terreno 7
+panorama_D574559D_C1A8_5533_41E2_02DEDED72A43.label = Terreno 4
+panorama_D57FF588_C1A8_F511_41DA_1E59A7DFCC61.label = Terreno 2
+panorama_D589E625_C1A8_5713_41C6_FCA4B8C266E6.label = Terreno 12
+panorama_D589E850_C1A8_7B32_41D7_C9A1AC27F7BB.label = Terreno 13
+panorama_D589EA7A_C1A8_5FF1_41D6_B0EDD7627FBB.label = Terreno 14
+panorama_D59017B6_C1A8_3571_41D8_8990E29AD791.label = Terreno 5
+panorama_D590FA52_C1A9_DF36_41C5_D7229EA7501B.label = Terreno 6
+panorama_D5966268_C1A8_6F11_41DA_43A715019FAA.label = Terreno 9
+panorama_D5967538_C1A8_3571_41E0_1760940FAF5B.label = Terreno 10
+panorama_D5968FB9_C1A8_5573_41D5_DA294F338BBA.label = Terreno 8
+panorama_D59D17A1_C1A8_D513_41E0_19F0772E65B0.label = Terreno 3
+panorama_D59EE7CF_C1A8_752F_41D1_0D2C3DE75003.label = Terreno 1
+panorama_D763E365_C1D8_2D12_41C4_D0193F053091.label = 2-denoise
+panorama_D7F4E440_C1D8_2B11_41DD_50F0666E97D8.label = 4-denoise
+panorama_D7FC7C16_C1D8_FB31_41C3_6177FA9EBED5.label = 3-denoise
+panorama_DACD2BB9_C1D8_DD73_41D7_A2FD0350608E.label = 1-denoise
+
+## Action
+
+### URL
+LinkBehaviour_D5CE853E_C233_8BD1_41AD_FA21417E80E6.source = https://chat.whatsapp.com/CHBHCircn58IhM60AHHXDR
+LinkBehaviour_D5CEB53E_C233_8BD1_41E4_D2A7E0EC24A6.source = https://chat.whatsapp.com/CHBHCircn58IhM60AHHXDR
