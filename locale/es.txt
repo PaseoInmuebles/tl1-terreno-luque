@@ -11,18 +11,17 @@ tour.name = Hermoso Terreno en Luque
 ## Skin
 
 ### Button
-Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = HOUSE INFO
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = INFO
 Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = INFO
-Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = PANORAMA LIST
 Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PANORAMAS
 Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = REALTOR
 Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = REALTOR
 Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = FLOORPLAN
 Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = FLOORPLAN
-Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = PHOTOALBUM
 Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = PHOTOS
 Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = LOCATION
 Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = LOCATION
+Button_DEF27FA9_D1BE_8E45_41DE_182106172961.label = PERSPECTIVAS
 
 ### Multiline Text
 HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;line-height:1"><SPAN STYLE="display:block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
@@ -59,3 +58,4 @@ panorama_DACD2BB9_C1D8_DD73_41D7_A2FD0350608E.label = 1-denoise
 ### URL
 LinkBehaviour_D5CE853E_C233_8BD1_41AD_FA21417E80E6.source = https://chat.whatsapp.com/CHBHCircn58IhM60AHHXDR
 LinkBehaviour_D5CEB53E_C233_8BD1_41E4_D2A7E0EC24A6.source = https://chat.whatsapp.com/CHBHCircn58IhM60AHHXDR
+PopupWebFrameBehaviour_DC500028_D232_21A7_41DD_171E980373DE.url = https://paseoinmuebles.com/propiedadeshtml/tl1/index.html
